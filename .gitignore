@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+.ipynb_checkpoints/
+venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# Streamlit cache
+.streamlit/
+
+# PyInstaller
+*.spec
+
+# Visual Studio Code
+.vscode/
